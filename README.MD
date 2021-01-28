@@ -1,1 +1,3 @@
-Ruby Substrings Exercise
+Ruby Exercise
+  - Substrings
+  - Stock Picker
